@@ -1,0 +1,1 @@
+INSERT INTO musica(nome,banda,data) VALUES ('No lo trates','Pitbull','21:00');
